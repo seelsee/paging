@@ -1,0 +1,22 @@
+body {
+	margin: 0;
+	padding: 0;
+}
+li {
+	list-style: none;
+}
+#uli {
+	width: 600px;
+	height: 250px;
+}
+#uli li {
+	margin: 10px;
+	float: left;
+	overflow: hidden;
+	width: 100px;
+	height: 100px;
+	background-color: red;
+}
+a {
+	margin: 5px;
+}
