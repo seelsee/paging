@@ -5,17 +5,18 @@ body {
 li {
 	list-style: none;
 }
-#uli {
+#ul1 {
 	width: 600px;
 	height: 250px;
 }
-#uli li {
+#ul1 li {
 	margin: 10px;
 	float: left;
 	overflow: hidden;
 	width: 100px;
 	height: 100px;
-	background-color: red;
+	background:url('../img/e.jpg') center center no-repeat;
+	color: #fff;
 }
 a {
 	margin: 5px;
